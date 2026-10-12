@@ -1,0 +1,101 @@
+7-sinf · Fizika · IV chorak
+
+# Energiyadan koinotgacha
+
+Energiya saqlanishi va quvvatdan boshlab, Quyosh sistemasi va koinot sirlarigacha — 9 ta mavzu, har biri jonli misol va interaktiv mashq bilan.
+
+1-mavzu
+
+## Energiya saqlanishi
+
+Energiyaning saqlanish qonuni: yopiq tizimda energiya yo'qolmaydi, faqat bir turdan boshqasiga aylanadi. Sharchani slayder bilan ko'tarib, qo'yib yuboring.
+
+**Qiyalikdan dumalash**Balandlikni tanlang
+
+2-mavzu
+
+## Mexanik quvvat
+
+Quvvat — birlik vaqtda bajarilgan ish: P = A / t.
+
+**Quvvat kalkulyatori**P = A / t
+
+Ish, A = 200 J
+
+Vaqt, t = 10 s
+
+P = A / t = 20 Vt
+
+3-mavzu
+
+## Quyosh, Yer va Oy
+
+Yer Quyosh atrofida, Oy esa Yer atrofida aylanadi. Animatsiyani kuzating.
+
+**Aylanish modeli**Jonli animatsiya
+
+4-mavzu
+
+## Quyosh sistemasi
+
+Quyosh sistemasida 8 ta sayyora bor. Sayyorani bosib, haqida o'qing.
+
+**Sayyoralar**Bosib ko'ring
+
+5-mavzu
+
+## Quyosh sistemasidan tashqaridagi koinot
+
+Koinot o'lchamlari tasavvurga sig'maydigan darajada katta. Masshtabni bosib solishtiring.
+
+**Masshtab taqqoslash**Bosib ko'ring
+
+6-mavzu
+
+## Amaliy ish: Tungi osmonda yulduzlar turkumlarini kuzatish
+
+Qutb yulduzi (Shimoliy yulduz) orqali ufqdagi shimol tomonini aniqlash mumkin. Yulduzni bosib, ma'lumotni ko'ring.
+
+**Tungi osmon**Yulduzni bosing
+
+Qutb yulduzini (markazdagi yorqinroq yulduz) bosing.
+
+7-mavzu
+
+## Koinotni o'rganish
+
+Koinotni o'rganish usullari vaqt o'tishi bilan rivojlangan.
+
+**Kuzatish usullari**Bosib ko'ring
+
+8-mavzu
+
+## Astronomiya fanining qisqacha rivojlanish tarixi
+
+Astronomiya tarixidagi muhim bosqichlarni kuzating.
+
+**Tarixiy taymlayn**Bosib ko'ring
+
+9-mavzu
+
+## "Olamning fizik manzarasi" mavzusida erkin suhbat
+
+Yil davomida o'rgangan mavzularimiz bir-biri bilan bog'liq edi. Har bir blokni bosib, qisqacha eslab o'ting.
+
+**Yil yakuni**Bosib ko'ring
+
+Umumiy tekshiruv
+
+## 5 ta savol
+
+1\. Energiya saqlanish qonuniga ko'ra, energiya nima qiladi?
+
+2\. Quvvat formulasi qanday?
+
+3\. Yer nima atrofida aylanadi?
+
+4\. Qutb yulduzi qaysi tomonni aniqlashga yordam beradi?
+
+5\. Quyosh sistemasida nechta sayyora bor?
+
+7-sinf fizika · IV chorak — Taqvim-mavzu reja asosida
